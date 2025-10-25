@@ -12,7 +12,7 @@ const Contact = () => {
             Get in Touch
           </h1>
           <p className="text-lg text-gray-400">
-            Have questions, feedback, or need support? We&apos;re here to help.
+            Have questions, feedback, or need support? We{`'re`} here to help.
           </p>
         </header>
 

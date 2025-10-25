@@ -14,7 +14,7 @@ const About = () => {
           Links, Simplified. Privacy, Guaranteed.
         </h1>
         <p className="text-lg md:text-xl text-gray-400 max-w-4xl mx-auto opacity-0 animate-fadeIn delay-300">
-          We built this URL Shortener because we felt the market was saturated with complex, tracking-heavy, and intrusive services. Our mission is straightforward: to provide the world&apos;s most direct and private URL shortener.
+          We built this URL Shortener because we felt the market was saturated with complex, tracking-heavy, and intrusive services. Our mission is straightforward: to provide the world{`'`}s most direct and private URL shortener.
         </p>
       </section>
 
@@ -68,7 +68,7 @@ const About = () => {
               This project is powered by **Next.js**, styled with **Tailwind CSS**, and utilizes a lightweight database structure. This modern architecture keeps the service extremely fast, scalable, and easy to maintain.
             </p>
             <p className="text-gray-300 leading-relaxed font-semibold border-l-4 border-purple-500 pl-4 italic">
-              &quot;We believe open source is the future. This project is open-sourced and available on GitHub for everyone to inspect and contribute to.&quot;
+              {`"We believe open source is the future. This project is open-sourced and available on GitHub for everyone to inspect and contribute to."`}
             </p>
 
             {/* Call to Action Buttons */}
