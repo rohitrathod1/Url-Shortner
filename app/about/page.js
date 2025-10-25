@@ -14,7 +14,7 @@ const About = () => {
           Links, Simplified. Privacy, Guaranteed.
         </h1>
         <p className="text-lg md:text-xl text-gray-400 max-w-4xl mx-auto opacity-0 animate-fadeIn delay-300">
-          We built this URL Shortener because we felt the market was saturated with complex, tracking-heavy, and intrusive services. Our mission is straightforward: to provide the world's most direct and private URL shortener.
+          We built this URL Shortener because we felt the market was saturated with complex, tracking-heavy, and intrusive services. Our mission is straightforward: to provide the world&apos;s most direct and private URL shortener.
         </p>
       </section>
 
