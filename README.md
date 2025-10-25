@@ -1,7 +1,7 @@
 # 🔗 BitLinks: The Privacy-First URL Shortening Platform
 ---
 ### Live Demo  
-[Launch Url Shortner](https://spotify-clone-r4o0.onrender.com)  
+[Launch Url Shortner](url-shortner-self-seven.vercel.app)  
 *Click to open in your browser — no install needed!*
 ---
 
