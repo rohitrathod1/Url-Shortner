@@ -1,7 +1,7 @@
 # 🔗 BitLinks: The Privacy-First URL Shortening Platform
 ---
 ### Live Demo  
-[Launch Url Shortner](url-shortner-self-seven.vercel.app)  
+[Launch Url Shortner](https://url-shortner-self-seven.vercel.app)  
 *Click to open in your browser — no install needed!*
 ---
 
