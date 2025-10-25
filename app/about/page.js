@@ -68,7 +68,7 @@ const About = () => {
               This project is powered by **Next.js**, styled with **Tailwind CSS**, and utilizes a lightweight database structure. This modern architecture keeps the service extremely fast, scalable, and easy to maintain.
             </p>
             <p className="text-gray-300 leading-relaxed font-semibold border-l-4 border-purple-500 pl-4 italic">
-              "We believe open source is the future. This project is open-sourced and available on GitHub for everyone to inspect and contribute to."
+              &quot;We believe open source is the future. This project is open-sourced and available on GitHub for everyone to inspect and contribute to.&quot;
             </p>
 
             {/* Call to Action Buttons */}
